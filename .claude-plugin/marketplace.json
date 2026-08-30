@@ -1,0 +1,13 @@
+{
+  "name": "skills",
+  "owner": {
+    "name": "Daren Darnell"
+  },
+  "plugins": [
+    {
+      "name": "toolkit",
+      "source": "./toolkit",
+      "description": "Personal collection of Claude Code skills."
+    }
+  ]
+}
