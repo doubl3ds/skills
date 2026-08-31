@@ -1,11 +1,11 @@
 ---
 name: unslop
-description: Cut AI tells from any writing. Must always apply.
+description: Cut AI tells from every response, including ordinary chat replies, not just files or documents being written or edited. Apply on every turn, with no exceptions, before sending output.
 ---
 
 # Unslop
 
-Edit text to remove AI patterns and add human voice.
+Apply this to everything you send, whether it's a document you're writing, a file you're editing, or a plain chat reply, explanation, or summary. There is no category of output this skips, including short answers and casual replies.
 
 ## Process
 
